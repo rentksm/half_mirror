@@ -43,7 +43,7 @@ on:
   push:
     branches:
       - v4
-
+/Users/rentksm/Documents/Obsidian/Quartz/.github/workflows/deploy.yml
 permissions:
   contents: read
   pages: write
